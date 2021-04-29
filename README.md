@@ -15,7 +15,10 @@
     </tr>
 	-->
     <tr>
-        <td align="center">simplify.ps1</td><td>卸载windows10自带的软件，只保留应用商店、照片和计算器。</td><td></td>
+        <td align="center">Simplify.ps1</td><td>卸载windows10自带的软件，只保留应用商店、照片和计算器。</td><td></td>
+    </tr>
+    <tr>
+        <td align="center">UseUTC.Reg</td><td>使用UTC时间</td><td></td>
     </tr>
 </table>
 
